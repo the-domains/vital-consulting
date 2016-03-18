@@ -1,0 +1,28 @@
+name: Vital Consulting
+favicon: null
+layout_spectrum: 0.39996860455721617
+typography_spectrum: 0.5484933767002076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4285870958119631
+  lightness: 0.3330588622484356
+  saturation: 0.07412488898262382
+  rhythmicContrast: 0.3298902283422649
+purpose: []
